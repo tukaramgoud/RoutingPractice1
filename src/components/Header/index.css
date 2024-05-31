@@ -1,0 +1,26 @@
+/* Write your CSS code here */
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.wave-container {
+  display: flex;
+  align-items: center;
+}
+.sub-header {
+  display: flex;
+  align-items: center;
+}
+.header-heading {
+  color: #551e53;
+  font-family: Roboto;
+  font-size: 30px;
+  font-weight: solid;
+  margin: 10px;
+  cursor: pointer;
+}
+.wave-sizing {
+  height: 60px;
+  cursor: pointer;
+}
